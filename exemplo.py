@@ -1,7 +1,7 @@
 
 print("Hello World")
-idade = 595
-print(idade)
+idade = 59
+print("Idade: " + idade)
 print("Testeando Python")
 stringVar = "Python! Salvação."
 print("O que dizer: " + stringVar)
